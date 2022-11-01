@@ -12,3 +12,11 @@ Today is Kerala Piravi. No school. I'm at home trying to complete these Mulearn 
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+- [x] Attempt Task 2
+- [X] Create a Profile page
+- [] Complete this Task
+- [] Post on Discord 
+- [] Receive Karma Points
+- [] Learn to use GitHub Regularly 
+
+
