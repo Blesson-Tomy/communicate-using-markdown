@@ -5,3 +5,10 @@
 Today is Kerala Piravi. No school. I'm at home trying to complete these Mulearn tasks before I go to school tomorrow. 
 
 ![Image of Kerala Piravi from Google](https://www.smitcreation.com/sc/09/63252/632521.jpg)
+###### Image of Kerala Piravi
+
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
