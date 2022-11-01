@@ -14,9 +14,9 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ```
 - [x] Attempt Task 2
 - [X] Create a Profile page
-- [] Complete this Task
-- [] Post on Discord 
-- [] Receive Karma Points
-- [] Learn to use GitHub Regularly 
+- [ ] Complete this Task
+- [ ] Post on Discord 
+- [ ] Receive Karma Points
+- [ ] Learn to use GitHub Regularly 
 
 
