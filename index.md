@@ -18,5 +18,6 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 - [ ] Post on Discord 
 - [ ] Receive Karma Points
 - [ ] Learn to use GitHub Regularly 
+- [X] Create a GitHub Page!!!
 
 
