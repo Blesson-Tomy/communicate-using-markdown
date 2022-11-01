@@ -3,3 +3,5 @@
 ###### This is me trying to learn GitHub. I still don't get the gist of it but I am still following all the instructions. Lets see how it goes! 
 
 Today is Kerala Piravi. No school. I'm at home trying to complete these Mulearn tasks before I go to school tomorrow. 
+
+![Image of Kerala Piravi from Google](https://www.smitcreation.com/sc/09/63252/632521.jpg)
